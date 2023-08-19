@@ -86,26 +86,25 @@ Este projeto foi desenvolvido com base nos requisitos do cliente e pode ser modi
 
 Para mais informações sobre este projeto ou para qualquer dúvida relacionada, entre em contato com:
 
-Rafael Fantin
-E-mail:rffantin@gmail.com
-GitHub:https://github.com/rffantin 
+### Rafael Fantin
+- E-mail: rffantin@gmail.com
+- GitHub: [rffantin](https://github.com/rffantin)
 
-Lucio Martins
-E-mail:luciomartinsdw@gmail.com
-GitHub:https://github.com/LucioMartinsDw
+### Lucio Martins
+- E-mail: luciomartinsdw@gmail.com
+- GitHub: [LucioMartinsDw](https://github.com/LucioMartinsDw)
 
-Felipe Gomes:
-E-mail:felipesg03@gmail.com
-GitHub:https://github.com/hellraiser997
+### Felipe Gomes
+- E-mail: felipesg03@gmail.com
+- GitHub: [hellraiser997](https://github.com/hellraiser997)
 
-Julyana K.
-E-mail:
-GitHub:
+### Julyana K.
+- E-mail: 
+- GitHub: 
 
-Victor Matheus 
-E-mail:
-GitHub:
-
+### Victor Matheus
+- E-mail: 
+- GitHub: 
 
 
 ---
